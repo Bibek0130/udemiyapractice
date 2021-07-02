@@ -1,0 +1,16 @@
+body{
+  font-family: "ubuntu";
+  font-size: 2rem;
+}
+
+h2{
+  color: #ffff;
+
+}
+p{
+  text-align: center;
+  text-decoration: none;
+}
+h3 {
+  text-align: center;
+}
